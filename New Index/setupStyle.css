@@ -1,0 +1,29 @@
+h1
+{
+	color: #009DDC;
+	
+	
+}
+
+body
+{
+	color: #06A77D;
+	background-color: #052F5F;
+	
+}
+
+a{
+	color: #F1A208;
+	
+}
+
+a:hover
+{
+	color: #CB04A5;
+}
+
+li
+{
+	list-style-type: none;
+	margin-right: 650px;
+}
